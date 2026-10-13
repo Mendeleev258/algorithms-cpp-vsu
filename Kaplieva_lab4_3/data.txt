@@ -1,0 +1,101 @@
+﻿Lev Kudryavtsev
+Mathematical analysis
+1970
+703
+Technical
+$
+Tatiana Azarnova
+Discrete mathematics
+2011
+174
+Technical
+$
+Andrew Wiles
+Modular Forms and Elliptic Curves
+1995
+300
+Number Theory
+$
+Terence Tao
+Solving Mathematical Problems: A Personal Perspective
+2006
+270
+Problem Solving
+$
+Henri Poincare
+Science and Hypothesis
+1902
+250
+Philosophy of Science
+$
+Martin Gardner
+Mathematical Games
+1988
+320
+Popular Science
+$
+V.I. Arnold
+Mathematical Understanding of Nature
+2009
+256
+Physics
+$
+Ian Stewart
+Mathematical Puzzles: A Connoisseur's Collection
+1999
+368
+Mathematics
+$
+Boris Korolev
+Mathematics for Everyone
+2015
+400
+Mathematics
+$
+Svetlana Balayeva
+Introduction to Mathematical Analysis
+2013
+450
+Technical
+$
+Djordje Poyа
+How to Solve It
+1945
+160
+Educational
+$
+Yakov Perelman
+Fun with Mathematics
+1960
+280
+Mathematics
+$
+Alfred Posamentier
+Mathematics and the Imagination
+2006
+300
+Problem Solving
+$
+John Stillwell
+Mathematics and the Imagination
+2013
+350
+Mathematics
+$
+Richard Courant
+What is Mathematics?
+1941
+400
+Educational
+$
+Paul Erdos
+The Art of Problem Solving
+1997
+250
+Problem Solving
+$
+Carl Friedrich Gauss
+Disquisitiones Arithmeticae
+1801
+500
+Technical

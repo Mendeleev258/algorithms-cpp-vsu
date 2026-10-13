@@ -1,0 +1,6 @@
+apple     banana  cherry  pivo
+key  lime  mango   zero
+grape orange  kiwi
+peach  plum zov
+bulgakov tomato   dostoevsky tomato tomato
+pivo pivo kiwi kiwi kiwi kiwi

@@ -1,0 +1,80 @@
+20
+Smith J.
+Tester
+90
+====================
+Johnson A.
+Analyst
+32
+====================
+Williams M.
+Programmer
+71
+====================
+Brown S.
+Programmer
+162
+====================
+Davis L.
+Tester
+15
+====================
+Wilson T.
+Programmer
+31
+====================
+Anderson K.
+Scrum-master
+62
+====================
+Thompson R.
+Manager
+40
+====================
+Garcia M.
+Analyst
+58
+====================
+Hernandez J.
+Manager
+360
+====================
+Gonzalez L.
+Analyst
+182
+====================
+Diaz S.
+Programmer
+30
+====================
+Ramirez A.
+Tester
+95
+====================
+Morales J.
+Scrum-master
+0
+====================
+Flores M.
+Programmer
+120
+====================
+Reyes L.
+Manager
+14
+====================
+Gutierrez S.
+Analyst
+20
+====================
+Jimenez A.
+Scrum-master
+48
+====================
+Dominguez M.
+Programmer
+14
+====================
+Castillo J.
+Tester
+144

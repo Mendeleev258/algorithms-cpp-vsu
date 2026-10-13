@@ -1,0 +1,80 @@
+20
+Smith J.
+HR Specialist
+50000
+====================
+Johnson A.
+Analyst
+60000
+====================
+Williams M.
+Developer
+70000
+====================
+Brown S.
+Sales Representative
+45000
+====================
+Davis L.
+HR Specialist
+55000
+====================
+Wilson T.
+Project Manager
+80000
+====================
+Anderson K.
+Marketing Coordinator
+48000
+====================
+Thompson R.
+IT Support
+52000
+====================
+Garcia M.
+Accountant
+65000
+====================
+Hernandez J.
+IT Support
+42000
+====================
+Gonzalez L.
+IT Support
+58000
+====================
+Diaz S.
+Quality Assurance
+62000
+====================
+Ramirez A.
+Sales Manager
+75000
+====================
+Morales J.
+Software Engineer
+72000
+====================
+Flores M.
+Software Engineer
+90000
+====================
+Reyes L.
+Marketing Manager
+78000
+====================
+Gutierrez S.
+Finance Analyst
+60000
+====================
+Jimenez A.
+Product Manager
+82000
+====================
+Dominguez M.
+Software Engineer
+90000
+====================
+Castillo J.
+Data Analyst
+90000

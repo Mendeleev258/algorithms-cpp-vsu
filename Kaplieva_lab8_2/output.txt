@@ -1,0 +1,68 @@
+math/integration.pdf
+1/3/2024
+67890 bytes
+
+tea/white_english.png
+2/6/2024
+234567 bytes
+
+math/algebra.txt
+3/4/2024
+345678 bytes
+
+math/statistics.xlsx
+2/3/2024
+567890 bytes
+
+math/calculus.docx
+1/2/2024
+789012 bytes
+
+tea/black_tea.png
+2/4/2024
+890123 bytes
+
+math/geometry.pdf
+3/5/2024
+901234 bytes
+
+tea/white_tea.png
+1/6/2024
+1012345 bytes
+
+math/trigonometry.txt
+2/3/2024
+1112346 bytes
+
+tea/earl_grey_tea.png
+3/2/2024
+1212347 bytes
+
+math/physics.xlsx
+1/4/2024
+1312348 bytes
+
+tea/oolong_tea.png
+2/5/2024
+1412349 bytes
+
+math/chemistry.docx
+3/6/2024
+1512350 bytes
+
+tea/green_tea_tea.png
+1/3/2024
+1612351 bytes
+
+math/biology.txt
+2/4/2024
+1712352 bytes
+
+tea/black_tea_tea.png
+3/2/2024
+1812353 bytes
+
+math/computer_science.xlsx
+1/5/2024
+1912354 bytes
+

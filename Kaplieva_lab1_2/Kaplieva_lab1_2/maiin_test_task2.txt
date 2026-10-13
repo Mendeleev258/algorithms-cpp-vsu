@@ -1,0 +1,8 @@
+int size_d = 4;
+int** matrix = memory_allocation(size_d);
+std::ifstream file("C:/Users/jrosl/source/repos/Mendeleev258/Kaplieva_lab1_2/Kaplieva_lab1_2/file.txt");
+fillmatrix(matrix, file, size_d);
+printmatrix(matrix, size_d);
+task2(matrix, size_d, 3);
+std::cout << '\n';
+printmatrix(matrix, size_d);
